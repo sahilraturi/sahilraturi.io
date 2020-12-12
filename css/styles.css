@@ -1,0 +1,77 @@
+h1 {
+  text-align: center;
+  font-family: langar, serif;
+
+
+}
+
+h2 {
+  font-family: sacremento, cursive;
+}
+
+.top{
+  background-color: #00FFFF;
+}
+
+.covid{
+  width: 5%;
+  border-radius: 50%;
+}
+
+.vaccine{
+  width: 50%;
+}
+
+.copyright{
+  color: black;
+  text-align: center;
+  background-color: #66BFBF;
+}
+
+.coro{
+  width: 100%;
+}
+
+.mask{
+  width: 20%;
+  position: absolute;
+  right: 520px;
+
+}
+
+.top-container{
+  background-color: #00FFFF;
+  position: relative;
+}
+
+.topnav {
+  background-color: #333;
+  overflow: hidden;
+}
+
+.topnav a {
+  float: left;
+  color: #f2f2f2;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+  font-size: 17px;
+}
+
+.topnav a:hover {
+  background-color: #ddd;
+  color: black;
+}
+
+.topnav a.active {
+  background-color: #4CAF50;
+  color: white;
+}
+
+.symptoms{
+  width: 30%;
+}
+
+.symp-container{
+  background-color: #ddd;
+}
